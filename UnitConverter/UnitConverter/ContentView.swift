@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Challenge 1
+//  UnitConverter
 //
 //  Created by Alex Nguyen on 2023-04-30.
 //
